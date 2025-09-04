@@ -18,4 +18,4 @@ Model başarıyla eğitilmiş ve test verisi üzerinde iyi performans göstermek
 
 💻 Gereksinimler
 Projeyi çalıştırmak için aşağıdaki kütüphaneler gereklidir:
-numpy,matplotflow,tensorflow
+numpy,matplotlib-pylot,tensorflow
